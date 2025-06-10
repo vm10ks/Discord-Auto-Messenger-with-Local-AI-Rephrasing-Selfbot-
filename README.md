@@ -97,12 +97,6 @@ You'll see logs like:
 
 ---
 
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
 ## 💡 Ideas for Expansion
 
 * Load messages from `.txt` or `.csv` files
