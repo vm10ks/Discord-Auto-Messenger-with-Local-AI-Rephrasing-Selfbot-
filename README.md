@@ -97,14 +97,5 @@ You'll see logs like:
 
 ---
 
-## 💡 Ideas for Expansion
-
-* Load messages from `.txt` or `.csv` files
-* Add scheduling (e.g. send only during certain hours)
-* Use OpenAI for richer paraphrasing
-* Add GUI (Gradio or Tkinter)
-
----
-
 Enjoy 👨‍💻🚀
 
