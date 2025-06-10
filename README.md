@@ -1,4 +1,4 @@
-````md
+
 # 🤖 Discord Auto Messenger with Local AI Rephrasing (Selfbot)
 
 A simple yet powerful selfbot script to send automated, human-like messages in Discord channels at scheduled intervals — with AI-powered rephrasing using a local Transformer model (`T5_Paraphrase_Paws`).
